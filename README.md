@@ -1,0 +1,2 @@
+# othello
+SMAI Assignment3
